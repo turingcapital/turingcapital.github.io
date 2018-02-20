@@ -48,6 +48,7 @@ body {
 a {
     text-decoration: none;
     color: var(--turing-blue);
+    font-weight: 500;
 }
 
 a:hover {
@@ -90,7 +91,6 @@ a:hover {
   }
 }
 
-
 .one-liner {
   text-align: center;
   font-size: 18px;
@@ -117,12 +117,12 @@ section {
 
 .section-title {
 	background-color: #1c2739;
-  padding: 6px 12px;
+  padding: 7px 10px 6px 10px;
   display: inline-block;
   margin: 0 0 20px 0;
   text-transform: uppercase;
   color: #fff;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 12px;
   letter-spacing: 1.5px;
 }
