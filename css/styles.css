@@ -564,15 +564,16 @@ section {
   padding: 2rem 1rem;
   text-align: left;
 }
-.investment-list {
-  font-family: 'Inter UI', sans-serif;
-  line-height: 1.2;
-}
-
-.investment-list {
+.investment-list,
+.investment-list li {
   list-style: none;
   padding-left: 0;
   margin-left: 0;
+}
+
+.investment-list {
+  font-family: 'Inter UI', sans-serif;
+  line-height: 1.2;
 }
 
 .investment-list a {
