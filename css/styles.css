@@ -570,6 +570,7 @@ section {
   list-style: none;
   padding-left: 0;
   margin-left: 0;
+  margin-bottom: 1em;
 }
 
 .investment-list a {
