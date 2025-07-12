@@ -557,12 +557,13 @@ section {
     width: 20% !important; }
   .lg-block-grid-6.no-gutters .block-grid__item {
     width: 16.6666666667% !important; } }
-
+}
 .portfolio-section {
   max-width: 600px;
   margin: 0 auto;
   padding: 2rem 1rem;
   text-align: left;
+	
 }
 .investment-list,
 .investment-list li {
