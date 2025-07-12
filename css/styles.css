@@ -569,11 +569,10 @@ section {
   line-height: 1.2;
 }
 
-.investment-list li {
-  margin-bottom: 0.5em;
-  font-size: 1em;
-  list-style: none !important;
-  padding-left: 0 !important;
+.investment-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
 }
 
 .investment-list a {
