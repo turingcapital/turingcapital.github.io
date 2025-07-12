@@ -557,3 +557,30 @@ section {
     width: 20% !important; }
   .lg-block-grid-6.no-gutters .block-grid__item {
     width: 16.6666666667% !important; } }
+
+.portfolio-section {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  text-align: left;
+}
+
+.investment-list {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0;
+}
+
+.investment-list li {
+  margin-bottom: 0.5em;
+  font-size: 1.1em;
+}
+
+.investment-list a {
+  text-decoration: none;
+  color: #007bff; /* or inherit for theme color */
+}
+
+.investment-list a:hover {
+  text-decoration: underline;
+}
