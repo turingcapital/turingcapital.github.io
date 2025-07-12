@@ -566,8 +566,7 @@ section {
 }
 .investment-list {
   font-family: 'Inter UI', sans-serif;
-  font-size: 18px;
-  line-height: 1.4;
+  line-height: 1.2;
 }
 
 .investment-list li {
