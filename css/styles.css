@@ -66,7 +66,7 @@ a:hover {
 }
 
 .hero-banner {
-  background-color: var(--turing-blue-darker);
+  background-color: var(--turing-grey);
   color: white;
 }
 
@@ -572,6 +572,8 @@ section {
 .investment-list li {
   margin-bottom: 0.5em;
   font-size: 1em;
+  list-style: none !important;
+  padding-left: 0 !important;
 }
 
 .investment-list a {
